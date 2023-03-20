@@ -1,0 +1,5 @@
+{
+    "dart.analysisExcludedFolders": [
+        "03_dart_fundamental",
+    ]
+}

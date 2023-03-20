@@ -1,0 +1,7 @@
+name: "07 Operators 02"
+mode: dart
+files:
+  - name: main.dart
+  # - name: test.dart
+  # - name: solution.dart
+  # - name: hint.txt

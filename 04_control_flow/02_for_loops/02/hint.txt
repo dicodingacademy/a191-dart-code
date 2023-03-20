@@ -1,0 +1,1 @@
+// Gunakan dua for loops untuk baris dan kolom.
