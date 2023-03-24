@@ -4,7 +4,7 @@ void main() {
   var allFavorites = [...favorites, ...others];
   print(allFavorites);
 }
- 
+
 /* output
 [Seafood, Salad, Nugget, Soup, Cake, Pie, Donut]
  */

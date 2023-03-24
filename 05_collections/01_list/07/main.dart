@@ -11,13 +11,13 @@ void main() {
   stringList.remove('Programming');
 
   // Menghapus list pada index ke-1
-  // stringList.removeAt(1); 
+  // stringList.removeAt(1);
 
   // Menghapus data list terakhir
-  // stringList.removeLast(); 
+  // stringList.removeLast();
 
   // Menghapus list mulai index ke-0 sampai ke-1 (indeks 2 masih dipertahankan)
-  // stringList.removeRange(0,2); 
+  // stringList.removeRange(0,2);
 
   print(stringList);
 }

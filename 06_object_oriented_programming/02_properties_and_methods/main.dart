@@ -1,12 +1,3 @@
-void main() {
-  var dicodingCat = Animal('Gray', 2, 4.2);
-
-  dicodingCat.eat();
-  dicodingCat.poop();
-
-  print(dicodingCat.weight);
-}
-
 class Animal {
   String _name = '';
   int _age = 0;
@@ -23,6 +14,7 @@ class Animal {
   double get weight => _weight;
   int get age => _age;
 
+  // Methods
   void eat() {
     print('$_name is eating.');
     _weight = _weight + 0.2;

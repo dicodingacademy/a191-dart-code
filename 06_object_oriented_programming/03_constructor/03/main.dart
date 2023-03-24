@@ -13,10 +13,10 @@ class Animal {
     this.age = age;
     this.weight = weight;
   }
-  // atau dengan cara berikut 
+  // atau dengan cara berikut
   // Animal(this.name, this.age, this.weight);
 
-  // Berikut beberapa contoh untuk mendeklarasikan 
+  // Berikut beberapa contoh untuk mendeklarasikan
   // Named Constructor.
   Animal.name(this.name);
   Animal.age(this.age);

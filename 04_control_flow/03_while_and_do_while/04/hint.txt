@@ -1,0 +1,1 @@
+// Gunakan dua while atau do-while loops untuk baris dan kolom.

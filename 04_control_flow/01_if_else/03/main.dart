@@ -1,9 +1,9 @@
 void main() {
   var score = 85;
-  
+
   print('Nilai Anda: ${calculateScore(score)}');
 }
- 
+
 String calculateScore(num score) {
   if (score > 90) {
     return 'A';

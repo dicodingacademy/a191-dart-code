@@ -1,7 +1,7 @@
 void main() {
   String? favoriteFood = 'Mie Ayam';
 
-  buyAMeal(favoriteFood);
+  buyAMeal(favoriteFood!);
 }
 
 void buyAMeal(String favoriteFood) {
