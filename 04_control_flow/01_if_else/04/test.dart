@@ -3,14 +3,14 @@ void main() {
     final oilThatShouldBuy = mainCode();
 
     if (oilThatShouldBuy == 6) {
-      _return(true);
+      _result(true);
     } else {
-      _return(false, [
+      _result(false, [
         'Kamu belum mengembalikan nilai yang tepat.',
       ]);
     }
   } catch (e) {
-    _return(false, [
+    _result(false, [
       'Mencoba menjalankan fungsi mainCode(), tetapi mengalami error: ${e.runtimeType}"',
     ]);
   }
