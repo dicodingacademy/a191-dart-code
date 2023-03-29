@@ -8,6 +8,5 @@ void main() {
   print(capital['Jakarta']);
 }
 
-/* output:
-Indonesia
-*/
+/// Output:
+/// Indonesia

@@ -5,3 +5,6 @@ void main() {
     print("It's False");
   }
 }
+
+/// Output:
+/// It's true

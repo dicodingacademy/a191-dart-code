@@ -1,1 +1,1 @@
-// Gunakan dua for loops untuk baris dan kolom.
+Gunakan dua for loops untuk baris dan kolom.

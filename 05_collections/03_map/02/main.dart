@@ -12,7 +12,6 @@ void main() {
   print("mapValues: $mapValues");
 }
 
-/* output:
-mapKeys = (Jakarta, London, Tokyo)
-mapValues = (Indonesia, England, Japan)
-*/
+/// Output:
+/// mapKeys = (Jakarta, London, Tokyo)
+/// mapValues = (Indonesia, England, Japan)

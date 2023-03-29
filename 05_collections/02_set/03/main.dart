@@ -7,6 +7,5 @@ void main() {
   print(numberSet);
 }
 
-/* Output: 
-{1, 4, 6, 2}
-*/
+/// Output:
+/// {1, 4, 6, 2}

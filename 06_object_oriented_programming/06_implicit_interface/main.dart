@@ -37,3 +37,7 @@ class Animal {
     print('$name is sleeping.');
   }
 }
+
+/// Output:
+/// Birdy is flying
+/// Birdy is eating.

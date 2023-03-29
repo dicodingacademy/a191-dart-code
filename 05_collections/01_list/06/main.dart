@@ -7,6 +7,5 @@ void main() {
   print(stringList);
 }
 
-/* output
-[Programming, Hello, Dicoding, Dart, Flutter]
-*/
+/// Output:
+/// [Programming, Hello, Dicoding, Dart, Flutter]

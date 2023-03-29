@@ -5,6 +5,5 @@ void main() {
   print(allFavorites);
 }
 
-/* output
-[[Seafood, Salad, Nugget, Soup], [Cake, Pie, Donut]]
- */
+/// Output:
+/// [[Seafood, Salad, Nugget, Soup], [Cake, Pie, Donut]]

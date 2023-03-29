@@ -10,3 +10,7 @@ void main(List<String> arguments) {
 int calculate() {
   return 6 * 7;
 }
+
+/// Output:
+/// Hello Dart! Dart is great.
+/// 6 * 7 = 42

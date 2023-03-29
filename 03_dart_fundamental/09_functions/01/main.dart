@@ -1,7 +1,10 @@
 void main() {
-  greet(); // output : Hello!
+  greet();
 }
 
 void greet() {
   print('Hello!');
 }
+
+/// Output:
+/// Hello!

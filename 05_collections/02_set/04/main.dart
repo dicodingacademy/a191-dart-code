@@ -5,6 +5,5 @@ void main() {
   print(numberSet.elementAt(2));
 }
 
-/* Output: 
-6
-*/
+/// Output:
+/// 6

@@ -9,7 +9,6 @@ void main() {
   print("intersection: $intersection");
 }
 
-/* Output: 
-union: {1, 2, 4, 5, 7}
-intersection: {1, 5}
-*/
+/// Output:
+/// union: {1, 2, 4, 5, 7}
+/// intersection: {1, 5}

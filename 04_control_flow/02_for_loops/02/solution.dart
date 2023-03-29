@@ -4,7 +4,7 @@ void main() {
     // index [j] akan berulang untuk menampilkan teks tiap kolom
     String text = "";
     for (int j = 0; j <= i; j++) {
-      text += "*";
+      text = text + "*";
     }
     print(text);
   }

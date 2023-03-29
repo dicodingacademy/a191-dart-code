@@ -4,6 +4,5 @@ void main() {
   print(list2);
 }
 
-/* output
-[0]
- */
+/// Output:
+/// [0]

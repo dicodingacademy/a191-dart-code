@@ -10,6 +10,5 @@ void main() {
   print(capital);
 }
 
-/* output:
-{Jakarta: Indonesia, London: England, Tokyo: Japan, New Delhi: India}
-*/
+/// Output:
+/// {Jakarta: Indonesia, London: England, Tokyo: Japan, New Delhi: India}

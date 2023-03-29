@@ -4,6 +4,5 @@ void main() {
   print(anotherSet);
 }
 
-/* Output: 
-{1, 4, 6}
-*/
+/// Output:
+/// {1, 4, 6}

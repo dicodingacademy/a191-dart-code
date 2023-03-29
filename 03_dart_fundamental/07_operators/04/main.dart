@@ -12,3 +12,7 @@ void main() {
     print('Jika semuanya false, maka ini akan tampil');
   }
 }
+
+/// Output:
+/// 2 kurang dari 3, tapi 2 + 4 tidak sama dengan 5, maka ini akan tampil
+/// Ada satu nilai true
