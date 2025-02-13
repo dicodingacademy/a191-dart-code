@@ -5,7 +5,7 @@ void main() {
   // Membuat objek DicodingStudent
   final dicodingStudent = DicodingStudent('John Doe', 25);
 
-  test('Exam 1 - TODO 1', () {
+  test('Exam 4 - TODO 1', () {
     // Memastikan tipe data properti
     expect(dicodingStudent.fullName, isA<String>(),
         reason:
