@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Exam 1",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/exam1/exam1_main.dart",
+            "args": [
+                "Your Name"
+            ]
+        },
+        {
+            "name": "Exam 2",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/exam2/exam2_main.dart"
+        },
+        {
+            "name": "Exam 3",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/exam3/exam3_main.dart"
+        },
+        {
+            "name": "Exam 4",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/exam4/exam4_main.dart"
+        },
+        {
+            "name": "Test Exam 1",
+            "request": "launch",
+            "type": "dart",
+            "program": "test/exam1_test.dart",
+            "env": {
+                "NAME": "Your Name"
+            }
+        },
+        {
+            "name": "Test Exam 2",
+            "request": "launch",
+            "type": "dart",
+            "program": "test/exam2_test.dart",
+        },
+        {
+            "name": "Test Exam 3",
+            "request": "launch",
+            "type": "dart",
+            "program": "test/exam3_test.dart",
+        },
+        {
+            "name": "Test Exam 4",
+            "request": "launch",
+            "type": "dart",
+            "program": "test/exam4_test.dart",
+        }
+    ]
+}
