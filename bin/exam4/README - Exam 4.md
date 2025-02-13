@@ -2,22 +2,22 @@
 
 ## Ketentuan
 
-**Agar dapat diperiksa dengan baik, hindari beberapa hal berikut:**
+**Agar dapat diperiksa dengan baik, hindari beberapa hal berikut.**
 
-1. Mengubah kode fungsi `main()` yang berada di dalam file `exam4_main.dart`
-2. Menghapus atau mengubah nama kelas, fungsi dan variable yang sudah ada di dalam file `exam4.dart`
-3. Membuat fungsi baru yang bukan merupakan tugas latihan
-4. Mengubah struktur project (menghapus, mengedit, dan memindahkan package)
+1. Mengubah kode fungsi `main()` yang berada di dalam file `exam4_main.dart`.
+2. Menghapus atau mengubah nama kelas, fungsi dan variable yang sudah ada di dalam file `exam4.dart`.
+3. Membuat fungsi baru yang bukan merupakan tugas latihan.
+4. Mengubah struktur project (menghapus, mengedit, dan memindahkan package).
 
 ## Instruksi
 
-Untuk mengerjakan soal latihan ini, silakan buka file `exam4.dart`.
+Untuk mengerjakan soal latihan ini, silakan buka file [exam4.dart](./exam4.dart).
 
 ### TODO 1
 
 Perbaiki fungsi `incrementAge` agar mengembalikan nilai umur (`age`) siswa, ditambah dengan `1`.
 
-#### Contoh 1:
+#### Contoh 1
 
 - Masukan: `age` = `18`
 - Keluaran: `19`
@@ -41,12 +41,12 @@ Untuk menguji kode, silakan jalankan fungsi `main` pada file `exam4_main.dart` d
 untuk menjalankan fungsi:
 
 ```bash
-dart run .\exam4_main.dart
+dart run exam4_main.dart
 ```
 
 Jika kode pada `exam4.dart` sudah diperbaiki sesuai ketentuan, maka keluarannya akan seperti berikut:
 
-```
+```console
 Full Name = Lutfi
 Age       = 18
 Age  + 1  = 19

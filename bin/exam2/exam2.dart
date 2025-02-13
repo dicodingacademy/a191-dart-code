@@ -8,9 +8,11 @@ dynamic oddOrEven(int number) {
 
 dynamic createListOneToX(int x) {
   final List<int> list = [];
+
   // TODO 2
 
   // End of TODO 2
+
   return list;
 }
 
@@ -20,5 +22,6 @@ String getStars(int n) {
   // TODO 3
 
   // End of TODO 3
+
   return result;
 }
