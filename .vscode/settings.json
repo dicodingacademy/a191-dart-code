@@ -1,6 +1,0 @@
-{
-    "dart.analysisExcludedFolders": [
-        "03_dart_fundamental",
-        "04_control_flow",
-    ],
-}
