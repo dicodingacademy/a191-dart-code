@@ -34,13 +34,15 @@ void main() {
 
     // Test untuk memeriksa hasil kembalian dari method
     expect(circleArea(7), equals(153.93804002589985),
-        reason: "Dengan r='7', hasil kembalian bukan 153.93804002589985");
+        reason:
+            "Apabila nilai r='7', hasil kembalian bukan 153.93804002589985");
     expect(circleArea(20), equals(1256.6370614359173),
-        reason: "Dengan r='20', hasil kembalian bukan 1256.6370614359173");
+        reason:
+            "Apabila nilai r='20', hasil kembalian bukan 1256.6370614359173");
     expect(circleArea(0), equals(0.0),
-        reason: "Dengan r='0', hasil kembalian bukan 0.0");
+        reason: "Apabila nilai r='0', hasil kembalian bukan 0.0");
     expect(circleArea(-10), equals(0.0),
-        reason: "Dengan r='-10', hasil kembalian bukan 0.0");
+        reason: "Apabila nilai r='-10', hasil kembalian bukan 0.0");
   });
 
   test('Exam 1 - TODO 3', () {
