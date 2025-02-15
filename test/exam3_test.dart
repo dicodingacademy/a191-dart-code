@@ -3,6 +3,9 @@ import '../bin/exam3/exam3.dart';
 
 void main() {
   test('Exam 3 - TODO 1', () {
+    // Periksa tipe data
+    expect(uniqueElement([1, 2, 2, 3]), isA<Set>());
+
     // List dengan elemen duplikat
     expect(uniqueElement([1, 2, 2, 3]), equals({1, 2, 3}),
         reason:
