@@ -11,6 +11,6 @@ Untuk menyelesaikan kelas ini, Anda perlu mengerjakan **Submission** sebagai ben
 
 Setiap Exam memiliki **3 tugas (TODO)** yang bisa dikerjakan. Anda bebas memilih tugas mana yang ingin diselesaikan terlebih dahulu. Namun, **setiap Exam harus memiliki minimal 1 tugas yang terselesaikan** agar dianggap memenuhi kriteria kelulusan.
 
-Gunakan pengetahuan yang telah Anda peroleh selama kelas ini dan tunjukkan kemampuan Anda dalam menguasai Dart.
+Gunakan pengetahuan yang telah Anda peroleh selama belajar di kelas ini dan tunjukkan kemampuan Anda dalam menguasai Dart.
 
 Selamat mengerjakan dan semoga sukses!
