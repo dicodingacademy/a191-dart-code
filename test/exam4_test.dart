@@ -55,7 +55,7 @@ void main() {
 
   test('Exam 4 - TODO 3', () {
     // Panggil fungsi createStudent
-    final DicodingStudent student = createStudent();
+    final student = createStudent();
 
     // Pastikan tipe data adalah DicodingStudent
     expect(student, isA<DicodingStudent>(),
