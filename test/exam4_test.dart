@@ -2,10 +2,10 @@ import 'package:test/test.dart';
 import '../bin/exam4/exam4.dart';
 
 void main() {
-  // Membuat objek DicodingStudent
-  final dicodingStudent = DicodingStudent('John Doe', 25);
-
   test('Exam 4 - TODO 1', () {
+    // Membuat objek DicodingStudent
+    final dicodingStudent = DicodingStudent('John Doe', 25);
+
     // Memastikan tipe data properti
     expect(dicodingStudent.fullName, isA<String>(),
         reason:
@@ -29,6 +29,9 @@ void main() {
   });
 
   test('Exam 4 - TODO 2', () async {
+    // Membuat objek DicodingStudent
+    final dicodingStudent = DicodingStudent('John Doe', 25);
+
     // Waktu mulai
     var startTime = DateTime.now();
 
